@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    padding: 10px;
+    margin-left: 50px;
+}
+.navbar-collapse{
+    align-items: center;
+    justify-content: space-between;
+}
+@media screen and (max-width: 767px){
+    .navbar-brand{
+        display: none;
+    }
+}
+.tarjeta-lugar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+.card{
+    width: 30rem;
+    height: 30rem;
+    margin: 10px;
+}
+@media screen and (max-width: 767px){
+    .card{
+        height: 33rem;
+    }
+}
+.seccion-oscura{
+    width: 100%;
+    height: 33vh;
+    background-color: gray;  
+}
+@media screen and (max-width: 767px){
+    .seccion-oscura{
+        height: 40vh;
+    }
+}
+.footer-logo{
+    height: 90px;
+}
+@media screen and (max-width: 767px){
+    .footer-logo{
+        height: 70px;
+    }
+}
+.iconos-redes-sociales a{
+    width: 20vh;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 10%;
+    transition: all 0.2s ease-in;
+}
+.iconos-redes-sociales i{
+    color: white;
+    font-size: 16px;
+    transition: all 0.2 ease-in;
+}
+.iconos-redes-sociales a:hover {
+    background-color: white;
+}
+.iconos-redes-sociales a:hover i{
+    color: black;
+}
+.derechos-de-autor{
+    font-size: 13px;
+    color: hwb(0 74% 14%);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin: 0;
+}

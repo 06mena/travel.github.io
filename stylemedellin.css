@@ -1,0 +1,41 @@
+body{
+    background-color: #FFFFFF;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23FFFFFF' width='11' height='11'/%3E%3Crect fill='%23fcfefc' x='10' width='11' height='11'/%3E%3Crect fill='%23f9fdfa' y='10' width='11' height='11'/%3E%3Crect fill='%23f6fdf7' x='20' width='11' height='11'/%3E%3Crect fill='%23f3fcf4' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23f0fbf1' y='20' width='11' height='11'/%3E%3Crect fill='%23edfaef' x='30' width='11' height='11'/%3E%3Crect fill='%23eaf9ec' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23e8f9e9' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23e5f8e7' y='30' width='11' height='11'/%3E%3Crect fill='%23e2f7e4' x='40' width='11' height='11'/%3E%3Crect fill='%23dff6e1' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23dcf5df' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23d9f5dc' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23d6f4d9' y='40' width='11' height='11'/%3E%3Crect fill='%23d3f3d7' x='50' width='11' height='11'/%3E%3Crect fill='%23d0f2d4' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%23cdf1d1' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23caf0cf' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23c7efcc' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23c4efca' y='50' width='11' height='11'/%3E%3Crect fill='%23c1eec7' x='60' width='11' height='11'/%3E%3Crect fill='%23beedc4' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23bbecc2' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23b7ebbf' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23b4eabc' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%23b1e9ba' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23aee8b7' x='70' width='11' height='11'/%3E%3Crect fill='%23abe8b4' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23a8e7b2' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23a5e6af' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23a1e5ad' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%239ee4aa' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%239be3a7' x='80' width='11' height='11'/%3E%3Crect fill='%2398e2a5' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%2394e1a2' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%2391e0a0' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%238edf9d' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%238ade9a' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%2387de98' x='90' width='11' height='11'/%3E%3Crect fill='%2383dd95' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%2380dc93' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%237cdb90' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%2379da8e' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%2375d98b' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%2371d888' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%236ed786' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%236ad683' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%2366d581' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%2362d47e' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%235dd37b' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%2359d279' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%2354d176' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%2350d074' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%234bcf71' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%2346ce6e' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%2340cd6c' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%233acc69' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%2333cb67' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%232CCA64' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.seccion-clara{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+.area-titulo {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    font-family: 'Lucida Sans', Geneva;
+    color: rgb(161, 223, 5);
+    text-align: center;
+}
+.area-texto{
+    font-size: 18px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.iglesia{
+    width: 90%;
+    border-radius: 50%;
+    transition: transform 0.2s;
+}
+.iglesia:hover {
+    transform: scale(1.2);
+}
+.lugar{
+    padding: 25px;
+    margin: 20px;
+}
+.imglugar{
+    height: 100%;
+    width: 65vh;
+}

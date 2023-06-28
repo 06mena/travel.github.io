@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styleregistro.css">
+    <title>Registrarse</title>
+    <link rel="icon" href="./icon.png">
+</head>
+<body>
+    <section class="registro form">
+        <form action="" class="registarse-formulario caja">
+            <h1>Registro</h1>
+            <br>
+            <label for="">Nombre</label>
+            <input required type="text" class="input-registro">
+            <br>
+            <label for="">Apellido</label>
+            <input required type="text" class="input-registro">
+            <br>
+            <label for="">Correo</label>
+            <input required type="email" class="input-registro">
+            <br>
+            <label for="">Usuario</label>
+            <input required type="text" id="userRegistro" class="input-registro">
+            <br>
+            <label for="">Contraseña</label>
+            <input required type="password" name="Contraseña" id="passwordRegistro" class="input-registro">
+            <br>
+            <button type="button" id="boton-registro">Registrarse</button>
+        </form>
+    </section>
+
+    <section class="login form">
+        <form action="" class="login-formulario caja">
+            <h1>Iniciar Seccion</h1>
+            <br>
+            <label for="">Usuario</label>
+            <input required type="text" class="input" id="userLogin">
+            <br>
+            <label for="">Contraseña</label>
+            <input required type="password" name="Contraseña" class="input" id="passwordLogin">
+            <br>
+            <button type="button" id="boton-login">Ingresar</button>
+        </form>
+    </section>
+
+    <script src="./registro.js"></script>
+</body>
+</html>
